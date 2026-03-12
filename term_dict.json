@@ -1,0 +1,7 @@
+{
+  "ADB": ["自适应远光灯", "自动远光灯", "Adaptive Driving Beam"],
+  "MCU": ["微控制单元", "单片机", "Microcontroller Unit"],
+  "CAN总线": ["CAN", "Controller Area Network"],
+  "ISO 26262": ["功能安全标准", "ISO26262"],
+  "IP6K7": ["IP67", "防尘防水等级IP6K7"]
+}

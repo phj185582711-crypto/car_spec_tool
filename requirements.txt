@@ -1,0 +1,7 @@
+pdfplumber>=0.10.0
+zhipuai>=2.0.0
+pandas>=2.0.0
+openpyxl>=3.0.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.20.0
+reportlab>=4.0.0
