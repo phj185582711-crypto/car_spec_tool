@@ -1,4 +1,4 @@
-<img width="2370" height="1204" alt="image" src="https://github.com/user-attachments/assets/57b2b81d-e7be-4de4-9622-7430d7949c80" /># 🚗 基于 LLM 的汽车系统需求文档自动化提取工具
+ 🚗 基于 LLM 的汽车系统需求文档自动化提取工具
 
 > 利用大语言模型 (LLM) 与 Python 实现的非结构化文档解析与技术指标结构化流水线。
 
